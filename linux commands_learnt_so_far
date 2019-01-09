@@ -998,3 +998,43 @@
  1156  history
  1157  history > touch linux_commands_so_far.txt
  1158  history > linux_commands_learnt_so_far.odt
+ls
+cd
+pwd
+mkdir
+rm
+rm -rf
+touch
+cat
+head
+more
+tail
+ps -eaf
+top
+kill
+bg
+fg
+chmod
+ssh
+grep
+locate
+whoami
+which app
+whereis
+free
+du 
+df
+date
+cal
+uptime
+cal
+w
+finger
+tar
+ping
+whois
+wget
+curl
+make
+dpkg
+exit

@@ -1,0 +1,1000 @@
+  222  python3
+  223  exit
+  224  cd /media/rohan/Spidey/Python_basic_programs/
+  225  python3 birthday_candles.py 
+  226  cd /media/rohan/Spidey/Python_basic_programs/
+  227  python3 birthday_candles.py 
+  228  apt install teamviewer_12.0.xxxxx_i386.deb 
+  229  cd Downloads/
+  230  apt install teamviewer_12.0.xxxxx_i386.deb 
+  231  cd /tmp && wget https://download.teamviewer.com/download/linux/signature/TeamViewer2017.asc
+  232  sudo apt-key add TeamViewer2017.asc
+  233  sudo sh -c 'echo "deb http://linux.teamviewer.com/deb stable main" >> /etc/apt/sources.list.d/teamviewer.list'
+  234  sudo sh -c 'echo "deb http://linux.teamviewer.com/deb preview main" >> /etc/apt/sources.list.d/teamviewer.list'
+  235  sudo aptupdate
+  236  sudo apt update
+  237  sudo apt-get install teamviewer
+  238  teamviewer
+  239  sudo apt-get -f install teamviewer
+  240  sudo apt install teamviewer
+  241  sudo apt-get -f install teamviewer
+  242  teamviewer
+  243  sudo apt-get purge teamvie*
+  244  apt-get
+  245  sudo apt-get check
+  246  sudo apt-get -f install
+  247  sudo apt-get autoremove
+  248  exit
+  249  sudo apt-get update
+  250  sudo apt-get install putty
+  251  exit
+  252  sudo ufw enable
+  253  sudo ufw status
+  254  sudo ufw disable
+  255  sudo ufw status
+  256  sudo ufw enable
+  257  sudo ufw status
+  258  exit
+  259  putty
+  260  exit
+  261  ls
+  262  cd
+  263  ls -la
+  264  exiyt
+  265  exit
+  266  cd /media/rohan/Spidey/
+  267  ls
+  268  cd My_Chat/
+  269  git init
+  270  git status
+  271  git add
+  272  git add .
+  273  git commit -m "testing"
+  274  git remote add origin https://github.com/Rohankrishna/My_chat.git
+  275  git push -u origin master
+  276  netstat
+  277  netstat --listen
+  278  ufw status
+  279  sudo ufw status
+  280  sudo ufw deactivate
+  281  sudo ufw
+  282  sudo ufw deactivatestatus
+  283  sudo ufw deactivate status
+  284  sudo ufw status
+  285  sudo ufw enable
+  286  ipconfig
+  287  ifconfig
+  288  inet adr
+  289  hostname -I
+  290  curl ifconfig.me
+  291  python3 My_Chat_Client.py 
+  292  git status
+  293  git add Connect_Server.py Connect_Client.py 
+  294  git commit -m "Connection between servefr and client"
+  295  git push -u origin master
+  296  python3 file_client.py 
+  297  git status
+  298  git add .
+  299  git commit
+  300  git push -u origin master
+  301  python3
+  302  ifconfig
+  303  netstat --listen
+  304  cd /media/rohan/Spidey/My_Chat/
+  305  python3 My_chat_client.py 
+  306  pip install pip3 install python-tk
+  307  pip3 install python-tk
+  308  pip install python-tk
+  309  pip install --upgrade pip
+  310  pip install --upgrade pip --user
+  311  pip3 install python-tk --user
+  312  python3 My_chat_client.py 
+  313  sudo apt-get install python-support
+  314  sudo update-python-modules -a
+  315  sudo update-python3-modules -a
+  316  python--version
+  317  python --version
+  318  python3 --version
+  319  sudo apt-get install python3-tk
+  320  python3 My_chat_client.py 
+  321  python g_client.py 
+  322  git status
+  323  git add .
+  324  git reset --g_client.py
+  325  git commit -m "My_chat_app"
+  326  git push -u origin master
+  327  python3 My_chat_client.py 
+  328  cd /media/rohan/Spidey/My_Chat/
+  329  python3 My_Chat_Server.py 
+  330  python3 file_server.py 
+  331  python3 My_chat_server.py 
+  332  python3 file_server.py 
+  333  python g_server.py 
+  334  python3 g_server.py 
+  335  python g_server.py 
+  336  python3 My_chat_server.py 
+  337  python My_chat_server.py 
+  338  cd /media/rohan/Spidey/My_Chat/
+  339  python3 My_chat_server.py 
+  340  ps -eaf | grep My_
+  341  python --version
+  342  python3 --version
+  343  kill -9 15200 16370
+  344  ps -eaf | grep My_
+  345  kill -9 16355
+  346  ps -eaf | grep My_
+  347  python3 My_chat_client.py 
+  348  cd /media/rohan/Spidey/My_Chat/
+  349  python3 My_chat_server.py 
+  350  python3 My_chat_server.py 
+  351  ps -eaf | grep
+  352  ps -eaf | grep .
+  353  ps -eaf | grep My_chat_
+  354  kill -9 18611 
+  355  ps -eaf | grep My_chat_
+  356  python3 My_chat_server.py 
+  357  python3 file_server.py 
+  358  ps -eaf | grep My_chat_
+  359  python3 file_server.py 
+  360  cd /media/rohan/Spidey/My_Chat/
+  361  python3 My_chat_client.py
+  362  python My_chat_client.py
+  363  python3 My_chat_client.py
+  364  python3 My_chat_client.py 
+  365  python3 file_client.py 
+  366  python3 g_server.py 127.0.0.1 8080
+  367  python3 g_server.py 
+  368  ifconfig
+  369  python3 g_server.py 10.14.87.24 8081
+  370  python g_server.py 10.14.87.24 8081
+  371  python g_server.py 
+  372  cd /media/rohan/Spidey/My_Chat/
+  373  git status
+  374  git add g_client.py g_server.py 
+  375  git commit -m "changes to two files"
+  376  git push -u origin master
+  377  python g_client.py 
+  378  python g_client.py  10.14.87.24 8081
+  379  cd /media/rohan/Spidey/My_Chat/
+  380  python g_client.py 
+  381  python g_client.py 10.14.87.24 8081
+  382  python g_server.py 10.14.87.24 8081
+  383  ifconfig
+  384  cd /media/rohan/Spidey/My_Chat/
+  385  python g_client.py 
+  386  python g_client.py 10.14.87.24 8081
+  387  cd /media/rohan/Spidey/My_Chat/
+  388  python3 My_chat_client.py 
+  389  python g_server.py 10.14.87.24 8081
+  390  python My_chat_server.py 
+  391  ps eaf
+  392  chrome
+  393  ls
+  394  cd Documents/
+  395  ls 
+  396  cd ..
+  397  cd Downloads/
+  398  ls
+  399  xdg-open HW2.docx 
+  400  pip3 install selenium -u
+  401  pip3 install selenium 
+  402  pip3 install selenium --user
+  403  sudo apt-get install unzip
+  404  wget -N http://chromedriver.storage.googleapis.com/2.10/chromedriver_linux64.zip -P ~/Downloads
+  405  unzip ~/Downloads/chromedriver_linux64.zip -d ~/Downloads
+  406  chmod +x ~/Downloads/chromedriver
+  407  sudo mv -f ~/Downloads/chromedriver /usr/local/share/chromedriver
+  408  sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
+  409  sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
+  410  exit
+  411  sudo apt-get install vpnc
+  412  ls
+  413  root
+  414  cd
+  415  ls
+  416  cd deja-dup/
+  417  ls
+  418  cd ..
+  419  rm -rf deja-dup/
+  420  cd /
+  421  ls
+  422  ls -al
+  423  ls -la
+  424  cd etc
+  425  ls
+  426  ls -al
+  427  chmod 777 vpnc/
+  428  sudo su
+  429  exit
+  430  su
+  431  sudo su
+  432  quit
+  433  cd
+  434  exit
+  435  indicator-stickynotes 
+  436  python g_server.py 
+  437  ifconfig
+  438  python g_server.py 10.14.85.63 8081
+  439  python g_client.py 10.14.85.63 8081
+  440  cd /media/rohan/Spidey/My_Chat/
+  441  python g_client.py 10.14.85.63 8081
+  442  cd  cd /media/rohan/Spidey/My_Chat/
+  443  python g_client.py 10.14.85.63 8081
+  444  ifconfig
+  445  python g_server.py 10.14.85.63 8081
+  446  exit
+  447  pip install tkinter
+  448  sudo apt-get install python python3-tk
+  449  sudo apt-get install python3 python3-tk
+  450  python3 My_chat_server.py 
+  451  su
+  452  sudo su
+  453  exit
+  454  cd /media/rohan/Spidey/My_Chat/
+  455  cat My_chat_client.py 
+  456  python3 My_chat_client.py 
+  457  exit
+  458  netsta
+  459  netstat
+  460  nmap rohan -p 80
+  461  hostname
+  462  hostnamectl
+  463  cat /proc/sys/kernel/hostname 
+  464  nmap ubuntu -p 80
+  465  sudo apt-get install nmap
+  466  nmap ubuntu -p 80
+  467  nmap ubuntu -p 8080
+  468  nmap ubuntu -p 8181
+  469  cd /media/rohan/Spidey/My_Chat/
+  470  python g_server.py 
+  471  python g_server.py 10.14.85.63 8181
+  472  python g_client.py 10.14.85.63 8181 
+  473  cd /media/rohan/Spidey/
+  474  ls
+  475  cd My_Chat/
+  476  python g_client.py 10.14.85.63 8181
+  477  cd /media/rohan/Spidey/My_Chat/
+  478  python g_client.py 10.14.85.63 8181
+  479  echo $$
+  480  echo $ppid
+  481  echo $PPID
+  482  kill -9 28839
+  483  pidoff
+  484  pidof
+  485  pidof rohan
+  486  pidof mingetty
+  487  pid of ssh
+  488  pidof ssh
+  489  pidof gedit
+  490  ps
+  491  pidof bash
+  492  pidof chrome
+  493  kill -9 29161
+  494  pidof chrome
+  495  bash
+  496  pidof gedit
+  497  kill -9 29624
+  498  ps
+  499  kill -9 29652
+  500  ps -eaf
+  501  pidof bash
+  502  pidof chrome
+  503  pidof google chrome
+  504  cd /media/rohan/Spidey/test/
+  505  ln -s file1 link1
+  506  cat link1
+  507  ln file1 link1
+  508  ln file1 link11
+  509  rm link1 link11
+  510  ls -a
+  511  la -la
+  512  ls -la
+  513  la
+  514  ls *[0-9]*
+  515  ls *abcd*
+  516  ls *hello*
+  517  ls *Hello*
+  518  ls *[Hello]*
+  519  lstree
+  520  pstree
+  521  top
+  522  more /home/user/.bash_history
+  523  cd
+  524  hto
+  525  htop
+  526  kill -9 *
+  527  echo $$ $PPID
+  528  exit
+  529  exit
+  530  python My_chat_server.py 
+  531  echo $$ $PPID
+  532  ps
+  533  ps fax
+  534  ps chrome
+  535  ps 
+  536  ps -eaf
+  537  ps -eaf | grep chrome
+  538  ps -C
+  539  pgrep chrome
+  540  kill -9 5093
+  541  top
+  542  kill -l
+  543  ping 10.14.79.95
+  544  netcat
+  545  git
+  546  git config --global color.ui true
+  547  git config --global color.status auto
+  548  git config --list
+  549  cd /media/rohan/Spidey/
+  550  mkdir local-repo
+  551  ls
+  552  cd local-repo/
+  553  ls
+  554  touch calc.py
+  555  vi calc.py 
+  556  git init
+  557  git status
+  558  ls -la
+  559  rm -rf .git/
+  560  git status
+  561  git init
+  562  git status
+  563  git add -A
+  564  git status
+  565  git commit -m "Initial commit"
+  566  git status
+  567  git log
+  568  vi calc.py
+  569  git status
+  570  git add calc.py 
+  571  git status
+  572  git diff
+  573  vi calc.py
+  574  git diff
+  575  git status
+  576  git add calc.py 
+  577  git status
+  578  git commit -m "change made"
+  579  git status
+  580  git commit -m "second commit"
+  581  git log
+  582  touch mytext.txt
+  583  git stats
+  584  git status
+  585  touch .gitignore
+  586  vi gitignore
+  587  vi .gitignore
+  588  ls -la
+  589  vi .gitignore 
+  590  git status
+  591  rm -rf .git
+  592  git status
+  593  git init
+  594  git status
+  595  git add calc.py
+  596  git status
+  597  git reset
+  598  git status
+  599  git add .
+  600  git status
+  601  git reset
+  602  git status
+  603  git add -A
+  604  git status
+  605  git commit -m "committing again, third commit i guess"
+  606  git status
+  607  git commit
+  608  git log
+  609  git remote add origin master https://github.com/Rohankrishna/Calc-.git
+  610  git remote add origin https://github.com/Rohankrishna/Calc-.git
+  611  git push -u origin master
+  612  git remote -v
+  613  git branch -a
+  614  git log
+  615  git pull origin master
+  616  git push origin master
+  617  git branch
+  618  chromium-browser
+  619  chromium-browser 
+  620  exit
+  621  echo $$ $PPID
+  622  bash
+  623  exit
+  624  ksh
+  625  mksh
+  626  sudo apt install ksh
+  627  ksh
+  628  echo $$
+  629  echo $$ $PPID
+  630  bash
+  631  cd
+  632  exit
+  633  vpnc ksu-vpn.conf 
+  634  --local-port 0
+  635  ls
+  636  cd ..
+  637  ls
+  638  cd ..
+  639  ls
+  640  cd etc/
+  641  ls
+  642  cd vpnc/
+  643  ls
+  644  vpnc ksu-vpn.conf 
+  645  cd
+  646  exit
+  647  sudo apt-get purge google-chrome-stable
+  648  rm ~/.config/google-chrome/ -rf
+  649  sudo apt update
+  650  sudo apt install -y chromium-browser
+  651  chromium-browser 
+  652  exit
+  653  cd ..
+  654  cd Python_basic_programs/
+  655  python3 amazon.py 
+  656  python3 calc.py
+  657  pip3 install behave
+  658  pip3 install behave --user
+  659  python3 calc.py
+  660  behave
+  661  cd /media/rohan/Spidey/Python_basic_programs/
+  662  python3 amazon.py 
+  663  python 3 calc.py 
+  664  python3 calc.py 
+  665  pip install behave
+  666  pip3 install behave --user
+  667  python3 calc.py 
+  668  pip3 install pytest --user
+  669  pytest calc.py 
+  670  pytest3 calc.py 
+  671  pytest calc.py
+  672  cd ..
+  673  cd Behave/
+  674  behave
+  675  cd steps/
+  676  behave
+  677  pip3 insyall behave
+  678  pip3 install behave --user
+  679  cd ..
+  680  cd Python_basic_programs/
+  681  python3 amazon.py 
+  682  exit
+  683  cd ..
+  684  cd Behave/
+  685  behave
+  686  sudo fdisk -l
+  687  lsblk
+  688  sudo sfdisk -l/dev/devicename
+  689  sudo sfdisk -l /dev/sda1
+  690  sudo fdisk
+  691  sudo fdisk -l
+  692  sudo parted /dev/sda
+  693  sudo parted -l
+  694  ssh -keygen
+  695  ssh-keygen
+  696  exit
+  697  ls
+  698  cd /med
+  699  cd /media/rohan
+  700  ls
+  701  ls -l
+  702  cd /media/rohan/Spidey/
+  703  ls
+  704  cd local-repo/
+  705  ls
+  706  git init
+  707  ls
+  708  ls -a
+  709  git log
+  710  git show head
+  711  git show HEAD
+  712  git HEAD-2
+  713  git HEAD~2
+  714  git show HEAD~2
+  715  git show HEAD-2
+  716  git show help
+  717  git show --help
+  718  git reflog
+  719  exit
+  720  git status
+  721  cd /media/rohan/Spidey/
+  722  ls
+  723  cd local-repo/
+  724  git status
+  725  git log --onelin
+  726  git log --oneline
+  727  git log --author
+  728  git log --rohan
+  729  git log --author="rohan"
+  730  git branch
+  731  git reflog
+  732  ls
+  733  cp calc.py calc1.py
+  734  ls
+  735  git status
+  736  vi calc1.py 
+  737  ls
+  738  git branch bugfix
+  739  git branch
+  740  ls
+  741  git checkout new-feature 
+  742  git status
+  743  git checkout master 
+  744  git sttaus
+  745  git status
+  746  git add calc1.py 
+  747  git status
+  748  git checkout bugfix
+  749  git status
+  750  cd /media/rohan/Spidey/local-repo/
+  751  git status
+  752  git branch
+  753  git checkout master
+  754  git checkout bugfix
+  755  ls
+  756  vi info.html
+  757  xdg-open info.html 
+  758  vi info.html 
+  759  ls
+  760  git checkout master 
+  761  ls
+  762  git status
+  763  git checkout new-feature 
+  764  git status
+  765  git add info.html 
+  766  git status
+  767  git beanch
+  768  git branch
+  769  git commit -m "adding calc.py and info.html"
+  770  git config --global core.autocrlf true
+  771  git config --global core.autocrlf input
+  772  git reflog
+  773  ls -la
+  774  ps
+  775  ps -eaf
+  776  ps -eaf | grep info
+  777  ls -la
+  778  chmod 757 3030
+  779  3030 chmod 757 
+  780  chmod 757 info.html 
+  781  ls -la
+  782  chmod 700 info.html 
+  783  ls -la
+  784  info.html
+  785  ls -la info.html
+  786  chmod 700 info.html 
+  787  ls -la info.html
+  788  cd ..
+  789  ls
+  790  ls -la
+  791  ls -la linux_sysadmin.pdf 
+  792  chmod 700 linux_sysadmin.pdf 
+  793  ls -la linux_sysadmin.pdf 
+  794  chmod 600 linux_sysadmin.pdf 
+  795  ls -la linux_sysadmin.pdf 
+  796  exit
+  797  ncdu
+  798  sudo apt-get update
+  799  java --version
+  800  sudo apt install default-jre
+  801  java --version
+  802  history
+  803  java --version
+  804  java -version
+  805  cd /media/rohan/Spidey/Jenkins/
+  806  java jenkins.war
+  807  jenkins
+  808  java jenkins
+  809  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+  810  java -version
+  811  sudo service jenkins stop
+  812  sudo spt remove jenkins
+  813  sudo apt remove jenkins
+  814  sudo apt-get remove --purge jenkins
+  815  sudo apt auto remove
+  816  sudo apt autoremove
+  817  ls -la
+  818  cd /media/rohan/Spidey/
+  819  mkdir test.git
+  820  cd test.git/
+  821  ls
+  822  ls -a
+  823  git init
+  824  git --bare init
+  825  git init
+  826  ls
+  827  git --bare init
+  828  ls
+  829  ls -la
+  830  git init
+  831  ls -la
+  832  ls
+  833  cd ..
+  834  ls
+  835  rm -rf test.git/
+  836  ls
+  837  mkdir test.git
+  838  mkdir test1.git
+  839  cd test.git
+  840  git init
+  841  cd ..
+  842  cd test1.git/
+  843  git --bare init
+  844  cd ..
+  845  cd test.git
+  846  ls -la
+  847  ls -ltr
+  848  ls -lt
+  849  ls -ltr
+  850  cd
+  851  pwd
+  852  ls
+  853  ls -ltr
+  854  df -lh
+  855  ls -latr
+  856  ls -l
+  857  ls -ltr
+  858  ls -lt
+  859  ls -lr
+  860  git -V
+  861  git --version
+  862  exit
+  863  cd /media/rohan/Spidey/
+  864  ls
+  865  cd test/
+  866  ls
+  867  ls -l
+  868  chmod u-x file1
+  869  ls -l
+  870  touch file 3
+  871  ls -l
+  872  chmod 046 file2
+  873  ls -l
+  874  touch file3.txt
+  875  ls -l
+  876  chmod 666 file3.txt
+  877  ls -l
+  878  touch file4.txt
+  879  ls -l
+  880  chmod u-w file4.txt 
+  881  ls -l
+  882  umask
+  883  sudo chmod u-w file4.txt 
+  884  ls -l
+  885  cd ..
+  886  ls
+  887  cd My_Chat/cd
+  888  cd
+  889  ls
+  890  cd /media/
+  891  ls
+  892  cd
+  893  touch test.txt
+  894  ls -l
+  895  umask
+  896  chmod u-w test.txt 
+  897  ls -l
+  898  exit
+  899  ps -ef | grep init
+  900  exit
+  901  cd /med
+  902  cd /media/
+  903  ls
+  904  cd guest-vybbsb/
+  905  ls
+  906  cd gue
+  907  cd guest-vybbsb/
+  908  cd /
+  909  cd ~
+  910  ls
+  911  cd /
+  912  ls
+  913  cd /media/
+  914  ls
+  915  cd guest-vybbsb/
+  916  ls -l
+  917  sudo chmod 777 guest-vybbsb/
+  918  ls -l
+  919  cd guest-vybbsb/
+  920  ls
+  921  cd
+  922  ls
+  923  cd /
+  924  ls
+  925  lsblk
+  926  sudo blkid
+  927  ls
+  928  cd /media/
+  929  ls
+  930  sudo mkdir usb
+  931  ls
+  932  sudo mount /dev/sdb1 /usb
+  933  sudo mount /dev/sdb1 usb
+  934  cd usb/
+  935  ls
+  936  cd Music/
+  937  ls
+  938  git init
+  939  git status
+  940  git add .
+  941  git commit -m "committing all songs
+  942  "
+  943  git rm --cached .
+  944  git rm -r --cached Music/
+  945  git status
+  946  git revoke
+  947  cd ..
+  948  cd ../..
+  949  cd /media/
+  950  sudo unmount usb/
+  951  l
+  952  s
+  953  ls
+  954  exit
+  955  which clear
+  956  whic man
+  957  which man
+  958  env
+  959  echo $XDG_RUNTIME_DIR 
+  960  sudo su
+  961  exit
+  962  vpnc
+  963  cpncinfig
+  964  vpnconfig
+  965  vpn config
+  966  vpnc
+  967  sudo service openvpn start
+  968  cd /media/
+  969  ls
+  970  cd rohan/
+  971  LS
+  972  ls
+  973  cd Spidey/
+  974  ls
+  975  cd test/
+  976  ls
+  977  rm 3
+  978  ls
+  979  ln -s file soft_link_to_file
+  980  ls
+  981  ln file hard_link_to_file
+  982  ls
+  983  vi file
+  984  cat soft_link_to_file 
+  985  cat hard_link_to_file 
+  986  cat file
+  987  rm file
+  988  cat file
+  989  cat soft_link_to_file 
+  990  cat hard_link_to_file 
+  991  exit
+  992  cd ..
+  993  cd Python_basic_programs/
+  994  python3 sakshi_q4.py 
+  995  cd /media/rohan/Spidey/
+  996  ls
+  997  cd local-repo/
+  998  ls
+  999  mkdir test1
+ 1000  cd test1/
+ 1001  touch program.py
+ 1002  ls
+ 1003  git status
+ 1004  cd ..
+ 1005  git status
+ 1006  cd test1/
+ 1007  git status
+ 1008  git add
+ 1009  git add .
+ 1010  git status
+ 1011  cd ..
+ 1012  git status
+ 1013  cd test1/
+ 1014  git status
+ 1015  cd ..
+ 1016  git reset test1/program.py
+ 1017  ls
+ 1018  cd test1/
+ 1019  ls
+ 1020  cat program.py 
+ 1021  vi program.py 
+ 1022  git status
+ 1023  cd ..
+ 1024  ls
+ 1025  git status
+ 1026  git add test1/
+ 1027  git status
+ 1028  cat test1/program.py 
+ 1029  git reset test1/program.py
+ 1030  cat test1/program.py 
+ 1031  git status
+ 1032  cd test1/
+ 1033  git reset program.py
+ 1034  cat program.py 
+ 1035  git status
+ 1036  git commit man
+ 1037  cd
+ 1038  ls
+ 1039  ls -l private_key.*
+ 1040  ls -l private_key
+ 1041  ls chmod u+x private_key
+ 1042  chmod u+x private_key
+ 1043  ls -l
+ 1044  chmod o+w private_key
+ 1045  ls -l private_key
+ 1046  chmod g+r private_key
+ 1047  ls -l private_key
+ 1048  cd /media/rohan/Spidey/local-repo/
+ 1049  git status
+ 1050  git commit -a -m "trying both at same time"
+ 1051  git commit -am "trying both at same time"
+ 1052  git add .
+ 1053  git status
+ 1054  vi test1/program.py 
+ 1055  ls
+ 1056  ls ca*
+ 1057  ls ca*.py
+ 1058  ls *.py
+ 1059  cat calc.py 
+ 1060  more calc.py 
+ 1061  head file
+ 1062  head calc.py
+ 1063  tail calc.py
+ 1064  tail -f calc.py
+ 1065  sed -n -e '10,20p' calc.py
+ 1066  sed -n -e '15,20p' calc.py
+ 1067  ls
+ 1068  tar cf file.tar calc1.py calc.py info.html myjunk.pem mytext.txt 
+ 1069  ls
+ 1070  rm file.tar 
+ 1071  tar cf file.tar .
+ 1072  tar cf file.tar *
+ 1073  tar cf file.tar *.py
+ 1074  rm -rf file.tar
+ 1075  tar cf file.tar *.py
+ 1076  tar xf file.tar 
+ 1077  tar czf *.py.tar.gklkl
+ 1078  tar czf file.tar.gz *.py
+ 1079  tar xzf file.tar.gz
+ 1080  tar czf file.tar.gz *.py
+ 1081  tar xzf file.tar.gz
+ 1082  google chrome
+ 1083  google-chrome
+ 1084  ssl keygen
+ 1085  ssh keygen
+ 1086  git remote -v
+ 1087  ls
+ 1088  ls -l
+ 1089  cat test.t
+ 1090  cat test.txt 
+ 1091  vi test.txt 
+ 1092  chmod 664 test.txt
+ 1093  vi test.txt
+ 1094  cat test.txt 
+ 1095  rm -rf test.txt 
+ 1096  ls -l
+ 1097  ls -ltr
+ 1098  ls -ltra
+ 1099  cd test
+ 1100  ls
+ 1101  cp hard_link_to_file file
+ 1102  ls
+ 1103  rm file
+ 1104  ls
+ 1105  touch file
+ 1106  ls
+ 1107  vi file
+ 1108  ls
+ 1109  cat file
+ 1110  top file
+ 1111  head file
+ 1112  rail file
+ 1113  tail file
+ 1114  more file
+ 1115  ps
+ 1116  ps -ef
+ 1117  echo ps -ef > file
+ 1118  cat file
+ 1119  cat soft_link_to_file 
+ 1120  ps -ef > file
+ 1121  more file
+ 1122  head soft_link_to_file 
+ 1123  head hard_link_to_file 
+ 1124  ps
+ 1125  ps -eaf
+ 1126  kill 4258
+ 1127  kill 1303
+ 1128  history
+ 1129  cd test/
+ 1130  ls
+ 1131  cd
+ 1132  cd /
+ 1133  ls
+ 1134  cd home/
+ 1135  ls
+ 1136  cd rohan/
+ 1137  top
+ 1138  ufw enable
+ 1139  sudo ufw enable
+ 1140  ufw status
+ 1141  sudo ufw status
+ 1142  sudo ufw disable
+ 1143  sudo ufw status
+ 1144  sudo ufw enable
+ 1145  bg
+ 1146  fg
+ 1147  fg 10
+ 1148  exit
+ 1149  ls
+ 1150  cd test/
+ 1151  fg
+ 1152  jobs
+ 1153  w
+ 1154  uptime
+ 1155  cal
+ 1156  date
+ 1157  uptime
+ 1158  ping 10.123.26.44
+ 1159  ping 10.123.26.202
+ 1160  ping man
+ 1161  whoami
+ 1162  finger rohan
+ 1163  sudo apt install finger
+ 1164  finger rohan
+ 1165  df
+ 1166  sudo apt autoremove
+ 1167  df
+ 1168  du
+ 1169  whereis google-chrome
+ 1170  which app
+ 1171  which google-chrome
+ 1172  sudo apt update
+ 1173  sudo apt upgrade
+ 1174  whois 10.123.26.202
+ 1175  sudo apt install whois
+ 1176  whois 10.123.26.202
+ 1177  whois 10.132.26.216
+ 1178  ifconfig
+ 1179  whois 10.14.84.
+ 1180  whois 10.14.84.234
+ 1181  free
+ 1182  ls
+ 1183  gzip file1
+ 1184  ls
+ 1185  gzip -d file1.gz
+ 1186  ls
+ 1187  gzip file1
+ 1188  gzip -d file1.gz
+ 1189  gzip file1
+ 1190  gzip -d file1.gz
+ 1191  gzip file1
+ 1192  xdg-open file1.gz 
+ 1193  devops roadmap
+ 1194  google-chrome
+ 1195  cat proc/cpuinfo
+ 1196  cat /proc/cpuinfo
+ 1197  more /proc/cpuinfo
+ 1198  man ssh
+ 1199  df
+ 1200  du
+ 1201  wget https://files.fosswire.com/2007/08/fwunixref.pdf
+ 1202  locate fwunixref.pdf 
+ 1203  wget https://files.fosswire.com/2007/08/fwunixref.pdf
+ 1204  cd ..
+ 1205  locate fwunixref.pdf 
+ 1206  cd /media/
+ 1207  cd /root/
+ 1208  ls
+ 1209  cd rohan/
+ 1210  cd Spidey/
+ 1211  locate fwunixref.pdf 
+ 1212  locate file*.*
+ 1213  locate file
+ 1214  locate file1.txt
+ 1215  java -version
+ 1216  ps -eaf
+ 1217  ps -eaf | grep google
+ 1218  history
+ 1219  cd Linux_Practice/
+ 1220  ls
+ 1221  history > linux_commands_learnt_so_far.odt 
